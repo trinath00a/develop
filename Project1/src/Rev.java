@@ -1,5 +1,5 @@
 
-public class rev {
+public class Rev {
 
 	public static void main(String[] args) {
 		String str="Hi trinath";
@@ -12,7 +12,6 @@ public class rev {
 	System.out.println(rev1);
 		
 	
-
 	}
 
 }
