@@ -4,5 +4,7 @@ public static void main(String [] args){
 
 System.out.println("Java first program");
 System.out.println("from local workspace");
+System.out.println("from local workspace2");
+System.out.println("This is new change");
 
 }
