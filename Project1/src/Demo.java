@@ -5,7 +5,7 @@ public class Demo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("from demo cls");
-		System.out.println("new changes are done from trinath");
+		System.out.println("new changes are doneb from trinath");
 
 	}
 
